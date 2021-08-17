@@ -1,4 +1,8 @@
 # DeepLearningHW
+This code classifies mushrooms by odor.
+
+files:
+
 mushroom.py - main file, includes methods of deep learning.
 
 utils.py - used for plots, called from mushrooms.py
